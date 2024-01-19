@@ -1,0 +1,21 @@
+
+Weekly meningococcal disease cases in Germany, over the period 2001–2006.
+
+
+Source: Robert Koch Insitut at https://survstat.rki.de/Content/Query/Main.aspx
+
+Create Query:
+
+- Attribute: Disease/Pathogen.  Select "Meningococcal disease,
+  invasive" as the "Disease"
+
+- Attributes to display:
+
+  In rows:    Year of notification
+  In columns: Week of notification
+
+- Display options:
+
+  Select "Zero values"
+
+Then select "Download ZIP"
